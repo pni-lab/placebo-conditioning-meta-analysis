@@ -1,0 +1,15 @@
+# Configuration file for PALM.
+# Version alpha119, running in MATLAB 9.12.0.2009381 (R2022a) Update 4.
+# 20-Oct-2022 13:15:56
+
+-i palm/all_data.nii
+-m full_masked_10_percent.nii
+-d design_mean.csv
+-t contrast_mean.csv
+-n 1000
+-o palm_main_effect_ranked/
+-logp
+-accel tail
+-T
+-fdr
+-ise
