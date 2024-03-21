@@ -43,8 +43,12 @@ func = function(data, idx){
 coef(lm(data=design[idx,], Rating_diff ~  Conditioning * Rating_pain_ctr  + Age + Male))
 }
 B = boot(data, func, R=5000)
+print('Conditioning')
 print(boot.ci(B,index=2,type="perc", conf = 0.95))
 print(boot.pval(B, index=2))
+print('Interaction')
+print(boot.ci(B,index=6,type="perc", conf = 0.95))
+print(boot.pval(B, index=6))
 ```
 
 # Mean pain reduction
