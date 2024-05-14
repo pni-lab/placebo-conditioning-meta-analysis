@@ -72,5 +72,3 @@ ggplot(data=design, aes(x=Study_ID, y=Rating_diff))+
   theme_bw()+
   ylab("Rating difference (placebo-ctr)")+theme(axis.text.x = element_text(angle = 90))+theme(legend.position = "none")
 ```
-
-
