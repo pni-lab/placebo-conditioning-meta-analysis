@@ -19,5 +19,8 @@ The repository assumes the presence of a `data` directory, that containes prepro
 ├── plot                  : python notebooks used for generating the figures and tables
 ├── resources             : figure source files (svg)
 ├── LICENSE               : MIT License (for all source code, but excluding material not contained in this repository: data, manuscript, final figures )
+├── requirements.txt      : required python packages 
 └── README.md             : the file you read now.
 ```
+
+Recommended Python version: 3.9.6
