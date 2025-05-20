@@ -11,6 +11,7 @@ Placebo analgesia demonstrates that belief and expectation can significantly alt
 
 The repository assumes the presence of a `data` directory, that containes preprocessed 1st level neuroimaging and behavioral/penotypic data. This is not directly supplied on github. To get access, contact the [Placebo Imaging Consortium](https://placebo-imaging-consortium.github.io/).
 
+```
 .
 ├── get_data              : matlab scripts to extract preprocessed data from our [previous analysis](https://github.com/mzunhammer/PlaceboImagingMetaAnalysis) (Zunhammer et al., 2018, 2021)
 ├── behavior              : python notebooks to analyze behavioral data
@@ -19,4 +20,4 @@ The repository assumes the presence of a `data` directory, that containes prepro
 ├── resources             : figure source files (svg)
 ├── LICENSE               : MIT License (for all source code, but excluding material not contained in this repository: data, manuscript, final figures )
 └── README.md             : the file you read now.
-
+```
