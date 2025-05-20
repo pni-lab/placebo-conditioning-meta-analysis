@@ -1,4 +1,9 @@
 ### *Analysis code accompanying the manuscript entitled*
 
 # Meta-analytic evidence for distinct neural correlates of conditioned vs. verbally induced placebo analgesia
-### *by Tamas Spisak, Helena Hartmann, Matthias Zunhammer, Balint Kincses, Katja Wiech, Tor Wager, & Ulrike Bingel, for the Placebo Imaging Consortium*
+### *by Tamas Spisak, Helena Hartmann, Matthias Zunhammer, Balint Kincses, Katja Wiech, Tor Wager, & Ulrike Bingel, for the [Placebo Imaging Consortium](https://placebo-imaging-consortium.github.io/)*
+
+### Abstract
+
+Placebo analgesia demonstrates that belief and expectation can significantly alter pain, even without active treatment. Placebo analgesia can be induced through verbal suggestion, classical conditioning, or their combination, though the role of conditioned neural responses above and beyond effects of verbal instructions remains unclear. We conducted a systematic meta-analysis of individual participant data from 16 within-participant placebo neuroimaging studies (n = 409), employing univariate and multivariate analyses to identify shared and distinct mechanisms of placebo analgesia induced by suggestions alone versus suggestions combined with conditioning. Both techniques increased activity during pain in the dorsolateral prefrontal and inferior parietal cortices and decreased activation in the insula, putamen, and primary sensory areas. Adding conditioning enhanced engagement of regions associated with context representation and pain modulation (e.g., dorsolateral/dorsomedial prefrontal cortices) and decreases in nociceptive regions (e.g., primary sensory and insular areas). Conditioning also strengthened the association between analgesia and nociceptive activity, as reflected in the Neurologic Pain Signature. Combining conditioning with instructions yielded greater analgesia, mediated by increased ventromedial prefrontal and dorsal caudate activity, alongside decreased sensory-nociceptive and cerebellar activity. These findings suggest the two strategies rely on partially distinct mechanisms, which could be combined to optimize placebo analgesia’s clinical application.
+
